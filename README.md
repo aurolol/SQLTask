@@ -1,1 +1,1 @@
-# Patika Sql Query Task
+#  - Patika Sql Query Task
